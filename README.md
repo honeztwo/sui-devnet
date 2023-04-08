@@ -1,4 +1,4 @@
-<h1 align="center"> Sui Devnet Node Kurulumu </h1> 
+<h1 align="center"> Sui Devnet Node Kurulumu !! </h1> 
 
 Not: Türkçeye çevrilmiştir, alıntıdır.
 ![image](https://user-images.githubusercontent.com/101149671/178116806-26715fca-3ff8-43d5-ae1e-cee3926828de.png)
